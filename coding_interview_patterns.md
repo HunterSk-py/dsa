@@ -1,3 +1,3 @@
 # 1. Two Pointers
-    - Pair Sum sorted
-    - 
+- Pair Sum sorted
+- Triplet Sum
