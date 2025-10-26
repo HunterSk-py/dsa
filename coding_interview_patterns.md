@@ -10,4 +10,5 @@
 3. Linked Lists
 - [Linked List Reversal](https://leetcode.com/problems/reverse-linked-list/description/) ✅ +1
 - [Remove Nth Last Node from a Linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) ✅ +1
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)✅ +1
 - 
