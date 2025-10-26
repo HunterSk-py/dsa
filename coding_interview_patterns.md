@@ -12,4 +12,10 @@
 - [Remove Nth Last Node from a Linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) ✅ +1
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)✅ +1
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/) ✅ +1
-- 
+4. Fast and Slow Pointer
+- [Linked List Loop](https://leetcode.com/problems/linked-list-cycle/description/) ✅ +1
+- [Linked List Midpoint](https://leetcode.com/problems/middle-of-the-linked-list/description/) ✅ +1
+- [Happy Numbers](https://leetcode.com/problems/happy-number/description/)✅ +1
+5. Sliding Windows
+- [Find all the Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) ✅ +1
+- [Longest Substring With Unique Characters]()
