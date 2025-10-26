@@ -9,4 +9,5 @@
 - [Zero Stripping](https://leetcode.com/problems/set-matrix-zeroes/description/) ✅ +1
 3. Linked Lists
 - [Linked List Reversal](https://leetcode.com/problems/reverse-linked-list/description/) ✅ +1
+- [Remove Nth Last Node from a Linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) ✅ +1
 - 
